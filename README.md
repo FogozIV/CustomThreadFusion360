@@ -34,6 +34,25 @@ It is **strongly recommended** to:
 After verifying, you may proceed to print in more appropriate materials like ASA, PETG, or UV-resistant resin.
 
 ---
+## 🤝 Contributing
+
+Pull requests are **welcome and encouraged**!  
+
+The goal of this library is to make Fusion 360 support as many **Intex, Bestway, and other pool fitting threads** as possible.  
+
+If you have:
+- ✅ **New thread measurements**
+- ✅ **Better verified dimensions**
+- ✅ **Corrections to existing XML**
+
+…please submit a PR.  
+
+📏 **Tip:** If you don’t have calipers or gauges, share photos and rough measurements — we can help turn them into usable definitions.
+
+Let’s grow this into the **largest open-source Fusion 360 pool thread library** together!
+
+
+---
 
 ## ⚖️ Legal Disclaimer
 
