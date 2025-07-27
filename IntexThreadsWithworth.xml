@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ThreadType>
+  <Name>Intex Whitworth</Name>
+  <CustomName>Intex Whitworth</CustomName>
+  <Unit>mm</Unit>
+  <Angle>55</Angle>
+  <SortOrder>50</SortOrder>
+<ThreadSize>
+  <Size>55</Size>
+  <Designation>
+    <ThreadDesignation>INTEX-55x3</ThreadDesignation>
+    <Pitch>3</Pitch>
+    <Thread>
+  <Gender>internal</Gender>
+  <Class>standard</Class>
+  <MajorDia>55.4</MajorDia>      
+  <PitchDia>54</PitchDia>      
+  <MinorDia>52.1</MinorDia>     
+</Thread>
+    <Thread>
+      <Gender>external</Gender>
+      <Class>standard</Class>
+      <MajorDia>54.5</MajorDia>
+      <PitchDia>53</PitchDia>
+      <MinorDia>51</MinorDia>
+    </Thread>
+  </Designation>
+</ThreadSize>
+  <ThreadSize>
+    <Size>83</Size>
+    <Designation>
+      <ThreadDesignation>G81.534x2.309</ThreadDesignation>
+      <Pitch>2.309</Pitch>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>A</Class>
+        <MajorDia>83</MajorDia>
+        <PitchDia>81.25</PitchDia>
+        <MinorDia>79.5</MinorDia>
+        <TapDrill>69.85</TapDrill>
+      </Thread>
+    </Designation>
+  </ThreadSize>
+</ThreadType>

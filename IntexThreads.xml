@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ThreadType>
+  <Name>Intex Threads</Name>
+  <CustomName>Intex Threads</CustomName>
+  <Unit>mm</Unit>
+  <Angle>60</Angle>
+  <ThreadForm>1</ThreadForm>
+  <SortOrder>50</SortOrder>
+  <ThreadSize>
+    <Size>60</Size>
+    <Designation>
+      <ThreadDesignation>INTEX-60x2.5</ThreadDesignation>
+      <CTD>INTEX-60x2.5</CTD>
+      <Pitch>2.5</Pitch>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>standard</Class>
+        <MajorDia>59.993</MajorDia>
+        <PitchDia>58.65</PitchDia>
+        <MinorDia>57.397</MinorDia>
+      </Thread>
+      <Thread>
+    <Gender>external</Gender>
+    <Class>standard</Class>
+    <MajorDia>59.88</MajorDia>     <!-- slightly smaller than 59.993 -->
+    <PitchDia>58.47</PitchDia>     <!-- undersized to ensure fit -->
+    <MinorDia>56.95</MinorDia>     <!-- safely below internal minor -->
+</Thread>
+    </Designation>
+  </ThreadSize>
+  <ThreadSize>
+  <Size>33.5</Size>
+  <Designation>
+    <ThreadDesignation>POOL-33.5x2.2</ThreadDesignation>
+    <Pitch>2.25</Pitch>
+
+    <!-- Internal thread (female) -->
+    <Thread>
+      <Gender>internal</Gender>
+      <Class>standard</Class>
+      <MajorDia>35.5</MajorDia>       
+      <PitchDia>34.5</PitchDia>       
+      <MinorDia>33.5</MinorDia>        
+    </Thread>
+
+    <!-- External thread (male) -->
+    <Thread>
+      <Gender>external</Gender>
+      <Class>standard</Class>
+      <MajorDia>34.4</MajorDia>        
+      <PitchDia>33.55</PitchDia>       
+      <MinorDia>32.4</MinorDia>       
+    </Thread>
+  </Designation>
+</ThreadSize>
+</ThreadType>
